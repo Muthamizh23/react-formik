@@ -11,9 +11,9 @@ const Footer = () => {
             href="https://www.linkedin.com/in/bharani-s-2792b31b7/"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-light"
+            className="text-light text-decoration-none"
           >
-          Bharani s<FaLinkedin size={25} />
+          Muthamizharasi <FaLinkedin size={25} />
           </a>
         </p>
       </div>
