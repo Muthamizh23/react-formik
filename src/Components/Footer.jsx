@@ -7,14 +7,7 @@ const Footer = () => {
       <div className="container">
         <p className="mb-0">
           © {new Date().getFullYear()}{" "}
-          <a
-            href="https://www.linkedin.com/in/bharani-s-2792b31b7/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-light text-decoration-none"
-          >
-          Muthamizharasi <FaLinkedin size={25} />
-          </a>
+          Muthamizharasi
         </p>
       </div>
     </footer>
